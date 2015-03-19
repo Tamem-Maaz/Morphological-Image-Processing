@@ -1,0 +1,8 @@
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\bin\Debug\MorphologicalImageProcessing.exe.config
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\bin\Debug\MorphologicalImageProcessing.exe
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\bin\Debug\MorphologicalImageProcessing.pdb
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\obj\Debug\MorphologicalImageProcessing.csprojResolveAssemblyReference.cache
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\obj\Debug\MorphologicalImageProcessing.Properties.Resources.resources
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\obj\Debug\MorphologicalImageProcessing.csproj.GenerateResource.Cache
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\obj\Debug\MorphologicalImageProcessing.exe
+F:\03 - All Work\On Github\Morphological-Image-Processing\MorphologicalImageProcessing\MorphologicalImageProcessing\obj\Debug\MorphologicalImageProcessing.pdb
